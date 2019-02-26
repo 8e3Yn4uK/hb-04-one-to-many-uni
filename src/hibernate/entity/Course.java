@@ -75,6 +75,6 @@ private List<Review> reviews;
     public String toString() {
         return "Course [" +
                 "id=" + id +
-                ", title='" + title + ']';
+                ", title=" + title + ']';
     }
 }
